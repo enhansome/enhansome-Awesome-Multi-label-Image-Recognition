@@ -46,7 +46,7 @@ Todo List:
 |  **AAAI**  | **\[MGTN]** Modular Graph Transformer Networks for Multi-Label Image Classification                 |                                                [Paper](https://people.cs.umu.se/sonvx/files/2021_AAAI_MGTN.pdf)/[Code](https://github.com/ReML-AI/MGTN) ⭐ 22 \| 🐛 4 \| 🌐 Python \| 📅 2021-04-24                                                |
 |  **ICME**  | Spatial-context-aware Deep Neural Network for Multi-class Image Classification                      |                                                                                                 [Paper](https://arxiv.org/pdf/2111.12296.pdf)/Code                                                                                                |
 |    arxiv   | MlTr: Multi-label Classification with Transformer                                                   |                                                                 [Paper](https://arxiv.org/abs/2106.06195)/[Code](https://github.com/starmemda/MlTr/) ⭐ 43 \| 🐛 2 \| 📅 2021-06-15                                                                |
-|    arxiv   | Query2Label: A Simple Transformer Way to Multi-Label Classification                                 |                                                    [Paper](https://arxiv.org/pdf/2107.10834.pdf)/[Code](https://github.com/SlongLiu/query2labels) ⭐ 469 \| 🐛 31 \| 🌐 Python \| 📅 2022-03-18                                                    |
+|    arxiv   | Query2Label: A Simple Transformer Way to Multi-Label Classification                                 |                                                    [Paper](https://arxiv.org/pdf/2107.10834.pdf)/[Code](https://github.com/SlongLiu/query2labels) ⭐ 468 \| 🐛 31 \| 🌐 Python \| 📅 2022-03-18                                                    |
 
 ## 2020
 
@@ -129,4 +129,4 @@ Todo List:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
