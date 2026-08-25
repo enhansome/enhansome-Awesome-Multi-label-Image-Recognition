@@ -127,8 +127,8 @@
             },
             {
               "node_type": "item",
-              "title": "arxiv",
-              "description": "MlTr: Multi-label Classification with Transformer Paper/Code",
+              "title": "starmemda/MlTr",
+              "description": "/Code MlTr: Multi-label Classification with Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -142,8 +142,8 @@
             },
             {
               "node_type": "item",
-              "title": "arxiv",
-              "description": "Query2Label: A Simple Transformer Way to Multi-Label Classification Paper/Code",
+              "title": "SlongLiu/query2labels",
+              "description": "/Code Query2Label: A Simple Transformer Way to Multi-Label Classification",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:50:04.153Z",
+    "last_updated": "2026-08-25T06:25:55.831Z",
     "original_repository": "JiaweiZhao-git/Awesome-Multi-label-Image-Recognition",
     "original_repository_id": 383084488,
     "original_repository_sha": "7dab8c67ec051cb76f2e50e4c23d3faedd7e7a87",
