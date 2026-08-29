@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transformer-based Dual Relation Graph for Multi-label Image Recognition. ICCV 2021",
+                "homepage": "https://arxiv.org/pdf/2110.04722.pdf",
                 "id": 410883423,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-13T12:58:24Z",
+                "open_issues": 1,
                 "owner": "iCVTEAM",
                 "repo": "TDRG",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "gcn",
+                  "multi-label-image-classification",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -28,12 +37,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch Implementation of: \"Asymmetric Loss For Multi-Label Classification\"(ICCV, 2021) paper",
+                "homepage": null,
                 "id": 299613439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-04T19:49:20Z",
+                "open_issues": 21,
                 "owner": "Alibaba-MIIL",
                 "repo": "ASL",
-                "stars": 804
+                "stars": 804,
+                "topics": [
+                  "classification",
+                  "detection",
+                  "loss",
+                  "multi-label-classification"
+                ]
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -44,12 +63,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code of ICCV2021 paper \"Residual Attention: A Simple but Effective Method for Multi-Label Recognition\"",
+                "homepage": null,
                 "id": 395874428,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-03-19T06:19:54Z",
+                "open_issues": 15,
                 "owner": "Kevinz-code",
                 "repo": "CSRA",
-                "stars": 211
+                "stars": 211,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -60,12 +84,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "M3TR: Multi-modal Multi-label Recognition with Transformer. ACM MM 2021",
+                "homepage": "https://dl.acm.org/doi/abs/10.1145/3474085.3475191",
                 "id": 410281770,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-10-27T13:40:01Z",
+                "open_issues": 2,
                 "owner": "iCVTEAM",
                 "repo": "M3TR",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "multi-label-image-classification",
+                  "multi-modal-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -76,12 +109,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General Multi-label Image Classification with Transformers",
+                "homepage": null,
                 "id": 332824789,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-02T02:16:30Z",
+                "open_issues": 12,
                 "owner": "QData",
                 "repo": "C-Tran",
-                "stars": 281
+                "stars": 281,
+                "topics": [
+                  "computer-vision",
+                  "multi-label-classification",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -92,12 +134,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TIP] Learning to Discover Multi-Class Attentional Regions for Multi-Label Image Recognition",
+                "homepage": null,
                 "id": 374595305,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-12T10:05:59Z",
+                "open_issues": 0,
                 "owner": "gaobb",
                 "repo": "MCAR",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "ms-coco",
+                  "multi-label-classification",
+                  "pascal-voc"
+                ]
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -108,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of Deep Semantic Dictionary Learning for Multi-label Image Classification, AAAI 2021.",
+                "homepage": null,
                 "id": 320770566,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-13T12:11:26Z",
+                "open_issues": 1,
                 "owner": "FT-ZHOU-ZZZ",
                 "repo": "DSDL",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -124,12 +180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modular Graph Transformer Networks",
+                "homepage": null,
                 "id": 347160272,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-24T16:52:22Z",
+                "open_issues": 4,
                 "owner": "ReML-AI",
                 "repo": "MGTN",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -140,12 +201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 360793639,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-06-15T09:10:47Z",
+                "open_issues": 2,
                 "owner": "starmemda",
                 "repo": "MlTr",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -156,12 +222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of paper \"Query2Label: A Simple Transformer Way to Multi-Label Classification\".",
+                "homepage": null,
                 "id": 387087634,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-18T15:19:44Z",
+                "open_issues": 31,
                 "owner": "SlongLiu",
                 "repo": "query2labels",
-                "stars": 468
+                "stars": 468,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             }
@@ -179,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Orderless Recurrent Models for Multi-label Classification",
+                "homepage": null,
                 "id": 246586803,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-08-19T07:20:46Z",
+                "open_issues": 5,
                 "owner": "voyazici",
                 "repo": "orderless-rnn-classification",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -195,12 +271,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ADD-GCN: Attention-Driven Dynamic Graph Convolutional Network for Multi-Label Image Recognition (ECCV 2020)",
+                "homepage": "https://arxiv.org/abs/2012.02994",
                 "id": 286359567,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-13T00:46:34Z",
+                "open_issues": 11,
                 "owner": "Yejin0111",
                 "repo": "ADD-GCN",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "add-gcn",
+                  "computer-vision",
+                  "eccv2020",
+                  "multi-label-image-classification",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -211,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 286574283,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-07T15:52:26Z",
+                "open_issues": 2,
                 "owner": "ReML-AI",
                 "repo": "sgtn",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -227,12 +319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KSSNet: Multi-Label Classification with Label Graph Superimposing",
+                "homepage": null,
                 "id": 244705914,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-03-03T18:19:49Z",
+                "open_issues": 4,
                 "owner": "mathkey",
                 "repo": "mssnet",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             }
@@ -250,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019.",
+                "homepage": null,
                 "id": 174109604,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-31T11:51:53Z",
+                "open_issues": 1,
                 "owner": "megvii-research",
                 "repo": "ML-GCN",
-                "stars": 1446
+                "stars": 1446,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -266,12 +368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual Attention Consistency Under Image Transforms for Multi-Label Image Classification",
+                "homepage": null,
                 "id": 194029080,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-10-07T14:59:52Z",
+                "open_issues": 7,
                 "owner": "hguosc",
                 "repo": "visual_attention_consistency",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -282,12 +389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 200573386,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-27T13:12:25Z",
+                "open_issues": 17,
                 "owner": "HCPLab-SYSU",
                 "repo": "SSGRL",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             }
@@ -305,12 +417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 85903957,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-11-08T02:21:29Z",
+                "open_issues": 9,
                 "owner": "zhufengx",
                 "repo": "SRN_multilabel",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -321,12 +438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Paper implementation",
+                "homepage": null,
                 "id": 179587823,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-04-04T22:54:43Z",
+                "open_issues": 6,
                 "owner": "AmrMaghraby",
                 "repo": "CNN-RNN-A-Unified-Framework-for-Multi-label-Image-Classification",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -337,12 +459,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of \"WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation\", CVPR 2017",
+                "homepage": null,
                 "id": 96539347,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-14T17:37:24Z",
+                "open_issues": 12,
                 "owner": "durandtibo",
                 "repo": "wildcat.pytorch",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "convnet",
+                  "cvpr-2017",
+                  "cvpr17",
+                  "cvpr2017",
+                  "deep-learning",
+                  "image-classification",
+                  "pytorch",
+                  "weakly-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -353,12 +489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-label Image Recognition by Recurrently Discovering Attentional Regions (Pytorch implementation)",
+                "homepage": null,
                 "id": 140931839,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-06T02:45:10Z",
+                "open_issues": 6,
                 "owner": "James-Yip",
                 "repo": "AttentionImageClass",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             }
@@ -382,12 +523,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-label Image Recognition with Partial Labels (IJCV'24, ESWA'24, AAAI'22)",
+                "homepage": null,
                 "id": 434087290,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-15T14:11:03Z",
+                "open_issues": 1,
                 "owner": "HCPLab-SYSU",
                 "repo": "HCP-MLR-PL",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "mutli-label-classification",
+                  "partial-label-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -398,12 +547,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-label Image Recognition with Partial Labels (IJCV'24, ESWA'24, AAAI'22)",
+                "homepage": null,
                 "id": 434087290,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-15T14:11:03Z",
+                "open_issues": 1,
                 "owner": "HCPLab-SYSU",
                 "repo": "HCP-MLR-PL",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "mutli-label-classification",
+                  "partial-label-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             }
@@ -427,12 +584,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 157172850,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-11-12T07:27:52Z",
+                "open_issues": 0,
                 "owner": "Phoenix1327",
                 "repo": "ML-ZSL",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             },
@@ -443,12 +605,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch Implementation of: \"Semantic Diversity Learning for Zero-Shot Multi-label Classification\"(ICCV, 2021) paper",
+                "homepage": null,
                 "id": 377442409,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-23T17:25:03Z",
+                "open_issues": 2,
                 "owner": "Alibaba-MIIL",
                 "repo": "ZS_SDL",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "image-text-search",
+                  "multi-label-classification",
+                  "zero-shot-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
             }
@@ -462,15 +633,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:00:02.833Z",
+    "last_updated": "2026-08-29T04:51:55.069Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Multi-label Image Recognition Paper List       ",
+      "homepage": null,
       "id": 383084488,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-12T07:24:30Z",
+      "open_issues": 2,
       "owner": "JiaweiZhao-git",
       "repo": "Awesome-Multi-label-Image-Recognition",
-      "stars": 165
+      "stars": 165,
+      "topics": [
+        "awesome-list",
+        "multi-label-image-classification"
+      ]
     },
     "original_repository_sha": "7dab8c67ec051cb76f2e50e4c23d3faedd7e7a87",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multi-label-Image-Recognition",
