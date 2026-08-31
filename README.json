@@ -280,7 +280,7 @@
                 "open_issues": 11,
                 "owner": "Yejin0111",
                 "repo": "ADD-GCN",
-                "stars": 134,
+                "stars": 133,
                 "topics": [
                   "add-gcn",
                   "computer-vision",
@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:51:53.567Z",
+    "last_updated": "2026-08-31T21:55:24.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Multi-label Image Recognition Paper List       ",
