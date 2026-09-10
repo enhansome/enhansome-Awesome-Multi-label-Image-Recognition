@@ -231,7 +231,7 @@
                 "open_issues": 31,
                 "owner": "SlongLiu",
                 "repo": "query2labels",
-                "stars": 469,
+                "stars": 470,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:49:49.379Z",
+    "last_updated": "2026-09-10T19:46:45.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Multi-label Image Recognition Paper List       ",
