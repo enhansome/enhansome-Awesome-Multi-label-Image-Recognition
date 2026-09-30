@@ -46,7 +46,7 @@
                 "open_issues": 21,
                 "owner": "Alibaba-MIIL",
                 "repo": "ASL",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "classification",
                   "detection",
@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:26:28.053Z",
+    "last_updated": "2026-09-30T21:26:46.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Multi-label Image Recognition Paper List       ",
