@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:22:40.254Z",
+    "last_updated": "2026-10-28T21:42:56.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Multi-label Image Recognition Paper List       ",
@@ -645,7 +645,7 @@
       "open_issues": 2,
       "owner": "JiaweiZhao-git",
       "repo": "Awesome-Multi-label-Image-Recognition",
-      "stars": 165,
+      "stars": 164,
       "topics": [
         "awesome-list",
         "multi-label-image-classification"
