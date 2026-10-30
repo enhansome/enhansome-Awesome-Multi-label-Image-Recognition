@@ -356,7 +356,7 @@
                 "open_issues": 1,
                 "owner": "megvii-research",
                 "repo": "ML-GCN",
-                "stars": 1447,
+                "stars": 1448,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:00:02.833Z"
@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:51:17.636Z",
+    "last_updated": "2026-10-30T21:33:42.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Multi-label Image Recognition Paper List       ",
@@ -645,7 +645,7 @@
       "open_issues": 2,
       "owner": "JiaweiZhao-git",
       "repo": "Awesome-Multi-label-Image-Recognition",
-      "stars": 164,
+      "stars": 165,
       "topics": [
         "awesome-list",
         "multi-label-image-classification"
