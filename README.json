@@ -458,7 +458,7 @@
               "description": "[WILDCAT] WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation Paper/Code",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "PyTorch implementation of \"WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation\", CVPR 2017",
                 "homepage": null,
                 "id": 96539347,
@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:13:38.548Z",
+    "last_updated": "2026-11-10T00:43:30.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Multi-label Image Recognition Paper List       ",
